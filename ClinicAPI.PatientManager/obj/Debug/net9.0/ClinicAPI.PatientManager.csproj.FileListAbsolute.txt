@@ -1,0 +1,11 @@
+C:\Users\ariel\OneDrive - upb.edu\Escritorio\Ariela\2025\5to Semestre\Certificación 1\Parcial 2\Práctica 2 Parcial\ClinicAPI\ClinicAPI.PatientManager\bin\Debug\net9.0\ClinicAPI.PatientManager.deps.json
+C:\Users\ariel\OneDrive - upb.edu\Escritorio\Ariela\2025\5to Semestre\Certificación 1\Parcial 2\Práctica 2 Parcial\ClinicAPI\ClinicAPI.PatientManager\bin\Debug\net9.0\ClinicAPI.PatientManager.dll
+C:\Users\ariel\OneDrive - upb.edu\Escritorio\Ariela\2025\5to Semestre\Certificación 1\Parcial 2\Práctica 2 Parcial\ClinicAPI\ClinicAPI.PatientManager\bin\Debug\net9.0\ClinicAPI.PatientManager.pdb
+C:\Users\ariel\OneDrive - upb.edu\Escritorio\Ariela\2025\5to Semestre\Certificación 1\Parcial 2\Práctica 2 Parcial\ClinicAPI\ClinicAPI.PatientManager\obj\Debug\net9.0\ClinicAPI.PatientManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive - upb.edu\Escritorio\Ariela\2025\5to Semestre\Certificación 1\Parcial 2\Práctica 2 Parcial\ClinicAPI\ClinicAPI.PatientManager\obj\Debug\net9.0\ClinicAPI.PatientManager.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive - upb.edu\Escritorio\Ariela\2025\5to Semestre\Certificación 1\Parcial 2\Práctica 2 Parcial\ClinicAPI\ClinicAPI.PatientManager\obj\Debug\net9.0\ClinicAPI.PatientManager.AssemblyInfo.cs
+C:\Users\ariel\OneDrive - upb.edu\Escritorio\Ariela\2025\5to Semestre\Certificación 1\Parcial 2\Práctica 2 Parcial\ClinicAPI\ClinicAPI.PatientManager\obj\Debug\net9.0\ClinicAPI.PatientManager.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive - upb.edu\Escritorio\Ariela\2025\5to Semestre\Certificación 1\Parcial 2\Práctica 2 Parcial\ClinicAPI\ClinicAPI.PatientManager\obj\Debug\net9.0\ClinicAPI.PatientManager.dll
+C:\Users\ariel\OneDrive - upb.edu\Escritorio\Ariela\2025\5to Semestre\Certificación 1\Parcial 2\Práctica 2 Parcial\ClinicAPI\ClinicAPI.PatientManager\obj\Debug\net9.0\refint\ClinicAPI.PatientManager.dll
+C:\Users\ariel\OneDrive - upb.edu\Escritorio\Ariela\2025\5to Semestre\Certificación 1\Parcial 2\Práctica 2 Parcial\ClinicAPI\ClinicAPI.PatientManager\obj\Debug\net9.0\ClinicAPI.PatientManager.pdb
+C:\Users\ariel\OneDrive - upb.edu\Escritorio\Ariela\2025\5to Semestre\Certificación 1\Parcial 2\Práctica 2 Parcial\ClinicAPI\ClinicAPI.PatientManager\obj\Debug\net9.0\ref\ClinicAPI.PatientManager.dll
