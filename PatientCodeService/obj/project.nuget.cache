@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vNTbT8gZ3V0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ariel\\OneDrive - upb.edu\\Escritorio\\Ariela\\2025\\5to Semestre\\Certificación 1\\Parcial 2\\Práctica 2 Parcial\\PatientCodeService\\PatientCodeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aKLhYhwWJNig4PCynQKahCChmDrZdpBUP6FsfHeyF8U=",
+  "Source": "PatientCodeService",
+  "BasePath": "_content/PatientCodeService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
